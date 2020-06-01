@@ -1,0 +1,11 @@
+2020-06-01 17:38:22 TRACE EmployeeController:21 - Vao loadIndex
+2020-06-01 17:38:22 INFO  EmployeeController:24 - Mang employee ra trang index.jsp
+2020-06-01 17:38:22 TRACE EmployeeController:25 - Thoat loadIndex
+2020-06-01 17:38:23 TRACE EmployeeController:21 - Vao loadIndex
+2020-06-01 17:38:23 INFO  EmployeeController:24 - Mang employee ra trang index.jsp
+2020-06-01 17:38:23 TRACE EmployeeController:25 - Thoat loadIndex
+2020-06-01 17:38:23 TRACE EmployeeController:21 - Vao loadIndex
+2020-06-01 17:38:23 INFO  EmployeeController:24 - Mang employee ra trang index.jsp
+2020-06-01 17:38:23 TRACE EmployeeController:25 - Thoat loadIndex
+2020-06-01 17:38:28 TRACE EmployeeController:31 - Vao loadResult
+2020-06-01 17:38:28 TRACE EmployeeController:36 - Thoat loadResult
